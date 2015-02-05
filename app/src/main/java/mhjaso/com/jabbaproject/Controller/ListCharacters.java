@@ -8,10 +8,11 @@ import android.support.v7.app.ActionBarActivity;
 import mhjaso.com.jabbaproject.Controller.Fragments.CharactersListFragment;
 import mhjaso.com.jabbaproject.R;
 
-;
 
 
-public class ListCharacters extends ActionBarActivity {
+
+public class ListCharacters extends ActionBarActivity
+{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
